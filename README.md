@@ -11,11 +11,11 @@ System.out.println(tellall);
 
 -----OUTPUT------
 
-Hi, I’m @AryamanHM
-Curiosity can't kill me
-Web Developer 
-JAVA Expertise
-Coding is love.
+Hi, I’m @AryamanHM |
+Curiosity can't kill me |
+Web Developer |
+JAVA Expertise |
+Novelty is Key.
 
 
 
