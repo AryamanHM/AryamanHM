@@ -1,3 +1,16 @@
+import java.util.*;
+class AboutMe
+{
+public static void main(String[] args)
+{
+Scanner sc=new Scanner(System.in);
+String tellall=sc.nextline()l
+System.out.println(tellall);
+}
+}
+
+-----OUTPUT------
+
 Hi, I’m @AryamanHM
 Curiosity can't kill me
 Web Developer 
